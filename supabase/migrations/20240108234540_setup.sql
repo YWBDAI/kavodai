@@ -1,5 +1,5 @@
 -- Enable HTTP extension
-create extension http with schema extensions;
+-- create extension http with schema extensions;
 
 -- Enable vector extension
 create extension vector with schema extensions;
